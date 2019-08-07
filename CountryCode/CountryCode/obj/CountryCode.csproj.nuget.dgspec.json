@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestCode\\CountryCode\\CountryCode\\CountryCode.csproj": {}
+    "D:\\git_home\\MyFirstRepository\\CountryCode\\CountryCode\\CountryCode.csproj": {}
   },
   "projects": {
-    "D:\\TestCode\\CountryCode\\CountryCode\\CountryCode.csproj": {
+    "D:\\git_home\\MyFirstRepository\\CountryCode\\CountryCode\\CountryCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestCode\\CountryCode\\CountryCode\\CountryCode.csproj",
+        "projectUniqueName": "D:\\git_home\\MyFirstRepository\\CountryCode\\CountryCode\\CountryCode.csproj",
         "projectName": "CountryCode",
-        "projectPath": "D:\\TestCode\\CountryCode\\CountryCode\\CountryCode.csproj",
+        "projectPath": "D:\\git_home\\MyFirstRepository\\CountryCode\\CountryCode\\CountryCode.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\TestCode\\CountryCode\\CountryCode\\obj\\",
+        "outputPath": "D:\\git_home\\MyFirstRepository\\CountryCode\\CountryCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
