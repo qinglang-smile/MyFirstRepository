@@ -1,0 +1,10 @@
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\bin\Debug\Newtonsoft.Json.exe.config
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\bin\Debug\Newtonsoft.Json.exe
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\bin\Debug\Newtonsoft.Json.pdb
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\bin\Debug\Newtonsoft.Json.dll
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\bin\Debug\Newtonsoft.Json.xml
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csprojAssemblyReference.cache
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csproj.CopyComplete
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.exe
+D:\git_home\MyFirstRepository\Newtonsoft.Json\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb
