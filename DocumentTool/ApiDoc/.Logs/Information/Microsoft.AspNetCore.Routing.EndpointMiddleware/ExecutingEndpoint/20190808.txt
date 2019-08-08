@@ -1,0 +1,45 @@
+#################### 08/08/2019 16:06:24.7869667 ###############
+Message:    Executing endpoint 'ApiDoc.Controllers.ValuesController.Get (ApiDoc)'
+Path:       https://localhost:44390/api/values
+Method:     GET
+From IP:    ::1
+UserAgent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+StackTrace: at Microsoft.AspNetCore.Routing.EndpointMiddleware.Log.ExecutingEndpoint(ILogger logger, Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>d__3.MoveNext()
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>d__6.MoveNext()
+#################### 08/08/2019 16:06:50.8150443 ###############
+Message:    Executing endpoint 'ApiDoc.Controllers.ValuesController.Get (ApiDoc)'
+Path:       https://localhost:44390/api/Values/Get
+Method:     GET
+From IP:    ::1
+UserAgent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+StackTrace: at Microsoft.AspNetCore.Routing.EndpointMiddleware.Log.ExecutingEndpoint(ILogger logger, Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>d__3.MoveNext()
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>d__6.MoveNext()
+#################### 08/08/2019 16:07:21.3620593 ###############
+Message:    Executing endpoint 'ApiDoc.Controllers.ValuesController.Get (ApiDoc)'
+Path:       https://localhost:44390/api/Values/Get
+Method:     GET
+From IP:    ::1
+UserAgent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+StackTrace: at Microsoft.AspNetCore.Routing.EndpointMiddleware.Log.ExecutingEndpoint(ILogger logger, Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>d__3.MoveNext()
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>d__6.MoveNext()
+#################### 08/08/2019 16:12:21.9778028 ###############
+Message:    Executing endpoint 'ApiDoc.Controllers.ValuesController.Post (ApiDoc)'
+Path:       https://localhost:44390/api/Values/Post
+Method:     POST
+From IP:    ::1
+UserAgent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+Body:       {"stu":{"age":0,"id":0,"name":""}}
+StackTrace: at Microsoft.AspNetCore.Routing.EndpointMiddleware.Log.ExecutingEndpoint(ILogger logger, Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>d__3.MoveNext()
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>d__6.MoveNext()

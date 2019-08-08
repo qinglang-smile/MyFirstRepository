@@ -1,0 +1,14 @@
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\bin\Debug\netcoreapp2.2\ApiDoc.deps.json
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\bin\Debug\netcoreapp2.2\ApiDoc.runtimeconfig.json
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\bin\Debug\netcoreapp2.2\ApiDoc.runtimeconfig.dev.json
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\bin\Debug\netcoreapp2.2\ApiDoc.dll
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\bin\Debug\netcoreapp2.2\ApiDoc.pdb
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.csprojAssemblyReference.cache
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.RazorAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.RazorAssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.AssemblyInfoInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.AssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.RazorTargetAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.dll
+D:\git_home\MyFirstRepository\DocumentTool\ApiDoc\obj\Debug\netcoreapp2.2\ApiDoc.pdb

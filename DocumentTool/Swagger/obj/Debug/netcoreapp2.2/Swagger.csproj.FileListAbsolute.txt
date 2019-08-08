@@ -1,0 +1,14 @@
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\bin\Debug\netcoreapp2.2\Swagger.deps.json
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\bin\Debug\netcoreapp2.2\Swagger.runtimeconfig.json
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\bin\Debug\netcoreapp2.2\Swagger.runtimeconfig.dev.json
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\bin\Debug\netcoreapp2.2\Swagger.dll
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.RazorAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.RazorAssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.AssemblyInfoInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.AssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.RazorTargetAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\bin\Debug\netcoreapp2.2\Swagger.pdb
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.dll
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\obj\Debug\netcoreapp2.2\Swagger.pdb
+D:\git_home\MyFirstRepository\DocumentTool\Swagger\bin\Debug\netcoreapp2.2\Swagger.xml
