@@ -2,3 +2,9 @@
 
 1.读取csv文件,获取国家编号
 2.oauth
+
+3.Swagger:
+https://www.cnblogs.com/yilezhu/p/9241261.html
+
+4.AspNetCore.ApiDoc
+https://www.cnblogs.com/gdsblog/archive/2019/01/21/10296815.html
