@@ -1,0 +1,15 @@
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.deps.json
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.runtimeconfig.json
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.runtimeconfig.dev.json
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.dll
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.RazorAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.RazorAssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.AssemblyInfoInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.AssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.RazorTargetAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.pdb
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.dll
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.pdb
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\bin\Debug\netcoreapp2.2\nlog.config
+D:\git_home\MyFirstRepository\DocumentTool\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.csprojAssemblyReference.cache
