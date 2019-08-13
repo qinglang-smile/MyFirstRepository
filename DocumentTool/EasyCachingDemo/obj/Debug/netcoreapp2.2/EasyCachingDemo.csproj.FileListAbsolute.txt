@@ -1,0 +1,14 @@
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\bin\Debug\netcoreapp2.2\EasyCachingDemo.deps.json
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\bin\Debug\netcoreapp2.2\EasyCachingDemo.runtimeconfig.json
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\bin\Debug\netcoreapp2.2\EasyCachingDemo.runtimeconfig.dev.json
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\bin\Debug\netcoreapp2.2\EasyCachingDemo.dll
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\bin\Debug\netcoreapp2.2\EasyCachingDemo.pdb
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.RazorAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.RazorAssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.AssemblyInfoInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.AssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.RazorTargetAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.dll
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.pdb
+D:\git_home\MyFirstRepository\DocumentTool\EasyCachingDemo\obj\Debug\netcoreapp2.2\EasyCachingDemo.csprojAssemblyReference.cache
