@@ -1,0 +1,13 @@
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\bin\Debug\netcoreapp2.2\StackExchangeRedis.deps.json
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\bin\Debug\netcoreapp2.2\StackExchangeRedis.runtimeconfig.json
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\bin\Debug\netcoreapp2.2\StackExchangeRedis.runtimeconfig.dev.json
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\bin\Debug\netcoreapp2.2\StackExchangeRedis.dll
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.RazorAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.RazorAssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.AssemblyInfoInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.AssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.RazorTargetAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\bin\Debug\netcoreapp2.2\StackExchangeRedis.pdb
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.dll
+D:\git_home\MyFirstRepository\DocumentTool\StackExchangeRedis\obj\Debug\netcoreapp2.2\StackExchangeRedis.pdb
