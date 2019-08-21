@@ -27,7 +27,7 @@ namespace StackExchangeRedis
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddSingleton(new RedisConnection(_config["Redis:Connection"], _config["Redis:Password"], _config["Redis:InstanceName"], Convert.ToInt32(_config["Redis:DefaultDB"])));
+            services.AddSingleton(new RedisConnection(Configuration["Redis:Connection"], Configuration["Redis:Password"], Configuration["Redis:InstanceName"], Convert.ToInt32(Configuration["Redis:DefaultDB"])));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
