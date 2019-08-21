@@ -19,13 +19,26 @@ namespace StackExchangeRedis.RedisHelper
         /// </summary>
         private static readonly object _locker = new object();
 
-        public RedisConnection(string connectionString, string instanceName, int defaultDb)
+        public RedisConnection(string connectionString, string password, string instanceName, int defaultDb)
         {
-            var connections = new ConcurrentDictionary<string, ConnectionMultiplexer>().GetOrAdd(instanceName, x => GetConnectionRedisMultiplexer(connectionString));
+            //防止timeout问题
+            var config = new ConfigurationOptions
+            {
+                AbortOnConnectFail = false,
+                AllowAdmin = true,
+                ConnectTimeout = 15000,
+                SyncTimeout = 5000,
+                // ResponseTimeout = 15000,
+                Password = password,//Redis数据库密码
+                EndPoints = { connectionString }// connectionString 为IP:Port 如”192.168.2.110:6379”
+            };
+            //var connect = ConnectionMultiplexer.Connect(config);
+
+            var connections = new ConcurrentDictionary<string, ConnectionMultiplexer>().GetOrAdd(instanceName, x => GetConnectionRedisMultiplexer(config));
             _db = connections.GetDatabase(defaultDb);//获取指定的库
         }
 
-        private ConnectionMultiplexer GetConnectionRedisMultiplexer(string connectionString)
+        private ConnectionMultiplexer GetConnectionRedisMultiplexer(ConfigurationOptions config)
         {
             if ((_connMultiplexer == null) || !_connMultiplexer.IsConnected)
             {
@@ -33,7 +46,7 @@ namespace StackExchangeRedis.RedisHelper
                 {
                     if ((_connMultiplexer == null) || !_connMultiplexer.IsConnected)
                     {
-                        _connMultiplexer = ConnectionMultiplexer.Connect(connectionString);
+                        _connMultiplexer = ConnectionMultiplexer.Connect(config);
                     }
                 }
             }
