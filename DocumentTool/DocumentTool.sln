@@ -16,7 +16,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLogDemo", "NLogDemo\NLogDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCachingDemo", "EasyCachingDemo\EasyCachingDemo.csproj", "{91DBEAFC-22E8-44AC-87EB-D830C3DBEB3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchangeRedis", "StackExchangeRedis\StackExchangeRedis.csproj", "{A594958A-77DA-4EAB-BFDB-94A98BF4FF63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackExchangeRedis", "StackExchangeRedis\StackExchangeRedis.csproj", "{A594958A-77DA-4EAB-BFDB-94A98BF4FF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailKitDemo", "MailKitDemo\MailKitDemo.csproj", "{38B2A17F-6B3D-4FB7-820C-AE65B02D7994}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{A594958A-77DA-4EAB-BFDB-94A98BF4FF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A594958A-77DA-4EAB-BFDB-94A98BF4FF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A594958A-77DA-4EAB-BFDB-94A98BF4FF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B2A17F-6B3D-4FB7-820C-AE65B02D7994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B2A17F-6B3D-4FB7-820C-AE65B02D7994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B2A17F-6B3D-4FB7-820C-AE65B02D7994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B2A17F-6B3D-4FB7-820C-AE65B02D7994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

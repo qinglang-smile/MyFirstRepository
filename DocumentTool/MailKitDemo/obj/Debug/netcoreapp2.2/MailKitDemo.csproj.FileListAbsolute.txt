@@ -1,0 +1,14 @@
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\bin\Debug\netcoreapp2.2\MailKitDemo.deps.json
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\bin\Debug\netcoreapp2.2\MailKitDemo.runtimeconfig.json
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\bin\Debug\netcoreapp2.2\MailKitDemo.runtimeconfig.dev.json
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\bin\Debug\netcoreapp2.2\MailKitDemo.dll
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.csprojAssemblyReference.cache
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.csproj.CoreCompileInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.RazorAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.RazorAssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.AssemblyInfoInputs.cache
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.AssemblyInfo.cs
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.RazorTargetAssemblyInfo.cache
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\bin\Debug\netcoreapp2.2\MailKitDemo.pdb
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.dll
+D:\git_home\MyFirstRepository\DocumentTool\MailKitDemo\obj\Debug\netcoreapp2.2\MailKitDemo.pdb
